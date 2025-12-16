@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SHADOWLORD6417.github.io/SHADOWLORD6417.github.io",
+  "homepage": "https://SHADOWLORD6417/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
