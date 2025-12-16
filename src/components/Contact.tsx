@@ -63,7 +63,7 @@ const Contact = () => {
     {
       icon: Github,
       title: "GitHub",
-      href: "https://github.com/SHADOWLORD6417"
+      href: "https://github.com/KulaPrakash6417"
     },
     {
       icon: Linkedin,

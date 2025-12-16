@@ -60,7 +60,7 @@ const Hero = () => {
               asChild
             >
               <a
-                href="https://github.com/SHADOWLORD6417"
+                href="https://github.com/KulaPrakash6417"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2"
